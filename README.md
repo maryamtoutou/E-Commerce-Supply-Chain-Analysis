@@ -3,6 +3,9 @@
 ### 📋 Project Objective
 We analyzed an e-commerce dataset (Olist) to understand why a large volume of orders missed their delivery dates. The goal was to identify the exact root cause of these delays: is it an internal warehouse processing issue or an external delivery carrier bottleneck? I built a Data Cleansing Pipeline in Google BigQuery to extract, clean, and analyze this relational data.
 
+### 🗂️ Data Source
+* **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ### 🛠️ Tools & Technologies
 * **Data Lake:** Google Cloud Storage (GCS)
 * **Data Warehouse / SQL Engine:** Google BigQuery
